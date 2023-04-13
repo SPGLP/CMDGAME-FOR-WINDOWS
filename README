@@ -10,22 +10,3 @@ I used to make a game long time ago. This game only has words and run in command
 So now I want to make a game launcher that I can pick up my work to a pack and launcher them more convenient.
 
 Others can also write and package games based on API to share your story.
-
-============================================ 中文（简体）============================================
-
-这是一个启动基于文字和指令之游戏的启动器。
-
-很久之前我曾经弄过一个游戏，它只有文字并且是在命令提示符上运行的。因为我是用.bat（批处理文件）来编写它的。
-
-因为最后文件太多导致运行效果不好，所以我打算弄一个启动器来运行经过打包的游戏文件，这样可以更加方便和高效
-
-当然其他人也可以根据API来编写文字游戏并且分享。
-====================================================================================================
-
-======================================= Log of Development =========================================
-
-2023/4/8
-Update README and restart project
-更新了 README 文件，重启此项目的开发。
-
-====================================================================================================
